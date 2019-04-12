@@ -1,0 +1,1 @@
+# allure-rest-assured-example
